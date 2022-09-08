@@ -1,0 +1,36 @@
+{
+  "moviesList": [
+    {
+      "movieName": "Vikramm",
+      "hero": "Kamal hassan",
+      "director": "lokesh",
+      "genere": "action and comedy",
+      "trailer": "https://www.youtube.com/embed/OKBMCL-frPU?start=1",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "movieName": "Charlie 777",
+      "hero": "Rakshit",
+      "director": "Kiran",
+      "genere": "drama , comedy",
+      "trailer": "https://www.youtube.com/embed/REqFOV2A7sI?start=1"
+    },
+    {
+      "id": 4,
+      "movieName": "Galipata 2",
+      "hero": "ganesh",
+      "director": "yograj",
+      "genere": "comedy",
+      "trailer": "https://www.youtube.com/embed/fnsWt4H619o?start=1"
+    },
+    {
+      "movieName": "chandan",
+      "hero": "chandan",
+      "director": "chandan",
+      "genere": "chandan",
+      "trailer": "https://www.youtube.com/embed/fnsWt4H619o?start=1",
+      "id": 5
+    }
+  ]
+}
