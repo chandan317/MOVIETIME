@@ -13,6 +13,8 @@ const Updatemovie = ({previousMovie}) => {
 
   const [genere, setGenere] = useState(previousMovie.genere);
 
+  const [ratings, setRatings] = useState(previousMovie.ratings);
+
   const [trailer, setTrailer] = useState(previousMovie.trailer);
 
   let history=useHistory();
@@ -73,6 +75,14 @@ const Updatemovie = ({previousMovie}) => {
             value={genere}
             onChange={(e) => {
               setGenere(e.target.value);
+            }}
+          />
+            <label>Ratings : </label>
+          <input
+            type="text"
+            value={ratings}
+            onChange={(e) => {
+              setRatings(e.target.value);
             }}
           />
           <label htmlFor="">Trailer:</label>

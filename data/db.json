@@ -5,6 +5,7 @@
       "hero": "Kamal hassan",
       "director": "lokesh",
       "genere": "action and comedy",
+      "ratings":"8.5",
       "trailer": "https://www.youtube.com/embed/OKBMCL-frPU?start=1",
       "id": 2
     },
@@ -14,6 +15,7 @@
       "hero": "Rakshit",
       "director": "Kiran",
       "genere": "drama , comedy",
+      "ratings":"9.5",
       "trailer": "https://www.youtube.com/embed/REqFOV2A7sI?start=1"
     },
     {
@@ -22,15 +24,36 @@
       "hero": "ganesh",
       "director": "yograj",
       "genere": "comedy",
+      "ratings":"8.5",
       "trailer": "https://www.youtube.com/embed/fnsWt4H619o?start=1"
     },
     {
-      "movieName": "chandan",
-      "hero": "chandan",
-      "director": "chandan",
-      "genere": "chandan",
-      "trailer": "https://www.youtube.com/embed/fnsWt4H619o?start=1",
-      "id": 5
+      "id": 5,
+      "movieName": "Lucky Man",
+      "hero": "Puneeth Rajkumar",
+      "director": "Prasad",
+      "genere": "comedy",
+      "ratings":"8.5",
+      "trailer": "https://youtu.be/S-_37rJL-nA"
+    },
+    {
+      "id": 6,
+      "movieName": "Vikrant Rona",
+      "hero": "Sudeep",
+      "director": "Anup",
+      "genere": "Thriller",
+      "ratings":"8.5",
+      "trailer": "https://youtu.be/-0ldvhBlL-k"
+    },
+    {
+      "id": 7,
+      "movieName": "Kantara",
+      "hero": "rishab",
+      "director": "rishab",
+      "genere": "drama",
+      "ratings":"8.5",
+      "trailer": "https://youtu.be/8mrVmf239GU"
     }
+    
   ]
 }

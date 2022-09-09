@@ -37,6 +37,7 @@ const Moviedetails=()=>{
                 <h1> MovieName: {movie.movieName}</h1>
                 <h1> Hero:  {movie.hero}</h1>
                 <h1> Genere:{movie.genere}</h1>
+                <h1> Ratings:{movie.ratings}</h1>
                 <button onClick={()=>{handleDelete(movie.id)}}>delete</button>
 
                 
